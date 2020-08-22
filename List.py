@@ -91,5 +91,5 @@ print('\nAfter 1,2,3 extend method =:',nums)
 #O/p
 #After 1,2,3 extend method =: [25, 27, 14, 45, 98, 45, 1, 2.3]
 
-# her you can user max(),min(),sum() ..etc methods.
+# here you can user max(),min(),sum() ..etc methods.
 #red python doc for this end of session
